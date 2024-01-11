@@ -1,0 +1,64 @@
+.topnav {
+    background-color: black;
+    overflow: hidden;
+    height: auto;
+}
+
+.topnav a{
+    float: left;
+    color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 35px;
+}
+
+.topnav a:hover {
+    background-color: grey;
+    color: white;
+}
+
+
+}
+
+.row {
+    display: flex;
+  }
+  
+  body, html {
+    height: 100%;
+    margin: 0;
+  }
+  
+  .bg {
+    
+    background-image: url("slenderman\ freestyle\ song\ cover\ art.jpg");
+      height: 200%; 
+      
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .browser {
+    margin: 0;
+    padding: 5px;
+    background-color: lightgray;
+    text-align: center;
+  }
+
+  p {
+    background: white;
+    padding; 3px;
+    margin: 5px;
+    font-family: Helvetica;
+    font-size: 90%;
+  }
+
+  h2 {
+    color: black;
+    font-size: 25px;
+  }
+
+
+  
